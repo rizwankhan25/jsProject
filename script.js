@@ -29,6 +29,7 @@ center.addEventListener("mousemove", function (dets) {
       });
   }
 });
+
 center.addEventListener("mousemove", function (dets) {
   let recLocationVal = center.getBoundingClientRect();
   let insideRect = dets.clientX - recLocationVal.left;
