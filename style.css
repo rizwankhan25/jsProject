@@ -17,6 +17,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(navy, green, salmon);
 }
 #center{
     width: 30vw;
