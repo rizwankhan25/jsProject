@@ -23,3 +23,10 @@ body {
     height: 30vh;
     border: 1px solid #000;
 }
+
+@media (max-width: 550px) {
+    #center{
+        width: 90vw;
+        height: 25vh;
+    }
+}
